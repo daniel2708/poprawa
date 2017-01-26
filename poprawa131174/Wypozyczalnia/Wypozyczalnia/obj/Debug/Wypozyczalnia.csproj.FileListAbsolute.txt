@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\poprawa131174\Wypozyczalnia\Wypozyczalnia\bin\Debug\Wypozyczalnia.exe.config
+C:\Users\local\Desktop\poprawa131174\Wypozyczalnia\Wypozyczalnia\obj\Debug\Wypozyczalnia.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\poprawa131174\Wypozyczalnia\Wypozyczalnia\bin\Debug\Wypozyczalnia.exe
+C:\Users\local\Desktop\poprawa131174\Wypozyczalnia\Wypozyczalnia\bin\Debug\Wypozyczalnia.pdb
+C:\Users\local\Desktop\poprawa131174\Wypozyczalnia\Wypozyczalnia\obj\Debug\Wypozyczalnia.exe
+C:\Users\local\Desktop\poprawa131174\Wypozyczalnia\Wypozyczalnia\obj\Debug\Wypozyczalnia.pdb
